@@ -7,10 +7,10 @@
 - [x] Navigate into folder
 - [x] Git init
 - [x] Go to GitHub and create new repository
-- [ ] Copy the remote
-- [ ] Add remote to my local folder
-- [ ] Create a readme file
-- [ ] Git add
-- [ ] Git commit
-- [ ] Git push
-- [ ] "code ." To open visual studio
+- [x] Copy the remote
+- [x] Add remote to my local folder
+- [x] Create a readme file
+- [x] Git add
+- [x] Git commit
+- [x] Git push
+- [x] "code ." To open visual studio
